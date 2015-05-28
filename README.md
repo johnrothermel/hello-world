@@ -1,2 +1,2 @@
 # hello-world
-The usual
+This is the general hello-world project used in most programming tutorials 
